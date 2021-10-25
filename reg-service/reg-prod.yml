@@ -1,0 +1,10 @@
+member:
+ age:
+  min: 20
+  max: 120
+ name:
+  main: Berezhany
+vehicle:
+ default:
+  model: cross over plus
+duration: all

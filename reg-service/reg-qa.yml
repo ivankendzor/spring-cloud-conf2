@@ -1,0 +1,10 @@
+member:
+ age:
+  min: 101
+  max: 1001
+ name:
+  main: Lviv(test)
+vehicle:
+ default:
+  model: cross over
+duration: all
